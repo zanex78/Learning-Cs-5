@@ -1,0 +1,15 @@
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/bin/Debug/net6.0/Learning5
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/bin/Debug/net6.0/Learning5.deps.json
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/bin/Debug/net6.0/Learning5.runtimeconfig.json
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/bin/Debug/net6.0/Learning5.dll
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/bin/Debug/net6.0/Learning5.pdb
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.csproj.AssemblyReference.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.AssemblyInfoInputs.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.AssemblyInfo.cs
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.csproj.CoreCompileInputs.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.dll
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/refint/Learning5.dll
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.pdb
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/Learning5.genruntimeconfig.cache
+/Users/eliasfahnrich/Library/Mobile Documents/com~apple~CloudDocs/Documents/Learning5/Learning5/obj/Debug/net6.0/ref/Learning5.dll
